@@ -1,6 +1,5 @@
 daemonize
 show-failed-attempts
-clock
 screenshot
 effect-blur=13x13
 effect-vignette=0.5:0.5
